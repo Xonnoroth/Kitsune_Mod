@@ -1,0 +1,72 @@
+[
+	{
+		"type": "item_group",
+		"id": "alchemy_items",
+		"copy-from": "alchemy_items",
+		"extend": {
+			"items": [
+			[ "star_pearl", 5 ]
+		  ]
+		}
+	},
+	{
+		"type": "item_group",
+		"id": "twotail_pearl",
+		"subtype": "collection",
+		"items": [ [ "star_pearl", 100 ] ]
+	},
+	{
+		"type": "item_group",
+		"id": "threetail_pearl",
+		"subtype": "collection",
+		"items": [ [ "star_pearl", 100 ] ]
+	},
+	{
+		"type": "item_group",
+		"id": "fourtail_pearl",
+		"subtype": "collection",
+		"items": [ [ "star_pearl", 100 ] ]
+	},
+	{
+		"type": "item_group",
+		"id": "fivetail_pearl",
+		"subtype": "collection",
+		"items": [ [ "star_pearl", 100 ] ]
+	},
+	{
+		"type": "item_group",
+		"id": "sixtail_pearl",
+		"subtype": "collection",
+		"items": [ [ "star_pearl", 100 ], [ "star_pearl", 30 ] ]
+	},
+	{
+		"type": "item_group",
+		"id": "seventail_pearl",
+		"subtype": "collection",
+		"items": [ [ "star_pearl", 50 ], [ "star_pearl", 100 ] ]
+	},
+	{
+		"type": "item_group",
+		"id": "eighttail_pearl",
+		"subtype": "collection",
+		"items": [ [ "star_pearl", 70 ], [ "star_pearl", 100 ] ]
+	},
+	{
+		"type": "item_group",
+		"id": "ninetail_pearl",
+		"subtype": "collection",
+		"items": [ [ "star_pearl", 90 ], [ "star_pearl", 100 ] ]
+	},
+	{
+		"type": "item_group",
+		"id": "novels",
+		"copy-from": "novels",
+		"extend": { "items": [ [ "fox_book", 5 ] ] }
+	},
+	{
+		"type": "item_group",
+		"id": "spellbook_tier_0",
+		"copy-from": "spellbook_tier_0",
+		"extend": { "items": [ [ "fox_book", 35 ] ] }
+	}
+]
