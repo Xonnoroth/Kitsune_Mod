@@ -1,10 +1,10 @@
 [
   {
     "type": "MOD_INFO",
-    "ident": "Jap_folklore",
-    "name": "Japanese Folklore",
-    "authors": [ "Merick" ],
-    "description": "A mod that adds a variety of monsters, NPCs, and mutations inspired by traditional Japanese folklore. Very WIP. Special thanks to Bismuth Borealis for contributing the groundwork for the kitsune.",
+    "ident": "Kitsune_Mod",
+    "name": "Kitsune Mod",
+    "authors": [ "Xonnoroth" ],
+    "description": "A mod that adds a Kitsune species and mutation path to Magiclysm. Very WIP. Special thanks to Bismuth Borealis for laying the groundwork for the kitsune and Mer1ck for updating and expanding upon the mod.",
     "category": "magical",
     "dependencies": [ "dda", "magiclysm" ]
   }
