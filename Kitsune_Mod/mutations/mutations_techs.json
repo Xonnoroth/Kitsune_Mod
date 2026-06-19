@@ -1,0 +1,20 @@
+  [
+    {
+    "type": "technique",
+    "id": "TECH_FOX_BITE",
+    "name": "Bite",
+    "crit_ok": true,
+    "unarmed_allowed": true,
+    "melee_allowed": true,
+    "messages": [ "You bite %s", "<npcname> bites %s" ],
+    "description": "A fox bite.",
+    "attack_vectors": [ "vector_fox_bite" ],
+    "flat_bonuses": [
+      { "stat": "damage", "type": "stab", "scaling-stat": "unarmed", "scale": 1.0 },
+      { "stat": "damage", "type": "bash", "scaling-stat": "str", "scale": 0.75 },
+      { "stat": "damage", "type": "bash", "scaling-stat": "unarmed", "scale": 0.06 },
+      { "stat": "movecost", "scaling-stat": "melee", "scale": -1.25 },
+      { "stat": "movecost", "scaling-stat": "dex", "scale": -0.5 }
+      ]
+    }
+  ]

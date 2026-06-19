@@ -1,0 +1,130 @@
+ [
+  {
+    "id": "muzzle_fox_lips",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "muzzle_fox",
+    "opposite": "sub_limb_debug",
+    "side": "both",
+    "name": "lips",
+    "similar_bodypart": "muzzle_lips"
+  },
+  {
+    "id": "muzzle_fox_nose",
+    "type": "sub_body_part",
+    "max_coverage": 10,
+    "parent": "muzzle_fox",
+    "opposite": "sub_limb_debug",
+    "side": "both",
+    "name": "nostrils",
+    "similar_bodypart": "muzzle_nose"
+  },
+  {
+    "id": "muzzle_fox_cheeks",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "muzzle_fox",
+    "opposite": "sub_limb_debug",
+    "side": "both",
+    "name": "cheeks",
+    "similar_bodypart": "muzzle_cheeks"
+  },
+  {
+    "id": "muzzle_fox_chin",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "muzzle_fox",
+    "opposite": "sub_limb_debug",
+    "side": "both",
+    "name": "chin",
+    "similar_bodypart": "muzzle_chin"
+  },
+  {
+    "id": "fox_paw_ankle_l",
+    "type": "sub_body_part",
+    "max_coverage": 10,
+    "parent": "paw_l",
+    "side": "left",
+    "opposite": "fox_paw_ankle_r",
+    "name_multiple": "ankles",
+    "name": "left ankle",
+    "similar_bodypart": "paw_default_wrist_l"
+  },
+  {
+    "id": "fox_pawpad_l",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "paw_l",
+    "side": "left",
+    "opposite": "fox_pawpad_r",
+    "name_multiple": "pawpads",
+    "name": "left pawpad",
+    "similar_bodypart": "paw_default_palm_l"
+  },
+  {
+    "id": "fox_paw_back_l",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "paw_l",
+    "side": "left",
+    "opposite": "fox_paw_back_r",
+    "name_multiple": "back of paws",
+    "name": "left back of paw",
+    "similar_bodypart": "paw_default_back_l"
+  },
+  {
+    "id": "fox_paw_toes_l",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "paw_l",
+    "side": "left",
+    "opposite": "fox_paw_toes_r",
+    "name_multiple": "toes",
+    "name": "left toes",
+    "similar_bodypart": "paw_default_fingers_l"
+  },
+  {
+    "id": "fox_paw_ankle_r",
+    "type": "sub_body_part",
+    "max_coverage": 10,
+    "parent": "paw_r",
+    "side": "right",
+    "opposite": "fox_paw_ankle_l",
+    "name_multiple": "ankles",
+    "name": "right ankle",
+    "similar_bodypart": "paw_default_wrist_r"
+  },
+  {
+    "id": "fox_pawpad_r",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "paw_r",
+    "side": "right",
+    "opposite": "fox_pawpad_l",
+    "name_multiple": "pawpads",
+    "name": "right palm",
+    "similar_bodypart": "paw_default_palm_r"
+  },
+  {
+    "id": "fox_paw_back_r",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "paw_r",
+    "side": "right",
+    "opposite": "fox_paw_back_l",
+    "name_multiple": "back of paws",
+    "name": "right back of paw",
+    "similar_bodypart": "paw_default_back_r"
+  },
+  {
+    "id": "fox_paw_toes_r",
+    "type": "sub_body_part",
+    "max_coverage": 30,
+    "parent": "paw_r",
+    "side": "right",
+    "opposite": "fox_paw_toes_l",
+    "name_multiple": "toes",
+    "name": "right toes",
+    "similar_bodypart": "paw_default_fingers_r"
+  },
+ ]

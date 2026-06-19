@@ -1,0 +1,9 @@
+[
+  {
+    "type": "attack_vector",
+    "id": "vector_fox_bite",
+    "limbs": [ "muzzle_fox" ],
+    "contact_area": [ "muzzle_fox_lips" ],
+    "encumbrance_limit": 1
+  }
+]
